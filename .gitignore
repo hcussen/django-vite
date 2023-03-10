@@ -1,0 +1,4 @@
+node_modules
+
+djang/core/__pycache__
+djang/djang/__pycache__
